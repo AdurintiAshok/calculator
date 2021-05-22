@@ -1,0 +1,46 @@
+body
+{
+    margin:0px;
+    padding:0px;
+    background-color:lightcoral;
+}
+.border
+{
+position:absolute;
+top:50%;
+left:50%;
+transform:translate(-50%,-50%);
+background-color:rgba(255, 255, 255, 0.5);
+width:500px;
+height:300px;
+border-radius:10px;
+}
+.border h3{
+    margin-left:170px;
+    color:black;
+}
+.maths
+{
+    margin-left:100px;
+}
+.science
+{
+    margin-left:86px;
+}
+.cs
+{
+    margin-left:130px;
+}
+.ds
+{
+    margin-left:130px;
+}
+.maths,.science,.cs,.ds
+{
+    margin-top:30px;
+}
+.button
+{
+    margin-left:200px;
+    margin-top:10px;
+}
